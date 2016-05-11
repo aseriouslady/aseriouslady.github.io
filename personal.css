@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed|Kimberly+Geswein');
+
+body{
+    background-color: #white;
+}
+img.me{
+    width: 350px;
+    padding: 10px;
+    margin-right: 190px;
+    margin-left: 20px;
+}
+
+h1{
+    font-family: 'Roboto Condensed';
+    text-align: center;
+   margin-top: 10px;
+}
+h3{
+    font-family: 'Roboto Condensed';
+    text-align: center;
+    vertical-align: top;
+}
+div.personal{
+    height: 650px;
+    width: 750px;
+    margin: 0 auto;
+    background-color: #EDEDED;
+    background-opacity: .5;
+    border: solid 1px;
+}
+
+nav{
+    float: left;
+    margin-right: 20px;
+}
+nav li{
+    font-size:12pt;
+    padding: 15px;
+    list-style: none;
+    font-family: 'Roboto Condensed';
+    text-decoration: none;
+}
+
+li a{
+    text-decoration: none;
+}
+
+li a:link{
+    color: #505252;
+}
+li a:visited{
+    color: #505252;
+}
+li a:hover{
+    color: black;
+}
+div.home{
+    width: 500px;
+    margin-left:auto;
+    margin-right: auto;
+
+}
+p.home{
+    font-family:Kimberly Geswein;
+    clear: both;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Roboto Condensed';
+    magin-bottom: 20px;
+}
+span.first{
+    font-weight: bold;
+    font-family: 'Roboto Condensed';
+}
+ul.contact{
+        font-family: 'Roboto Condensed';
+        text-align: center;
+        margin-top: 100px;
+}
+
+p.contact{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Roboto Condensed';
+
+}
+div.contact{
+    width:250px;
+    margin:auto;
+}
+img.ecuador{
+    width:370px;
+    height:150px;
+    margin-left: 30px;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+div.personalcontact{
+    height: 450px;
+    width: 750px;
+    margin: 0 auto;
+    background-color: #EDEDED;
+    background-opacity: .5;
+    border: solid 1px;
+}
+figcaption.contact{
+    font-style: italic;
+    font-family: 'Roboto Condensed';
+    font-size: 10pt;
+    text-align: right;
+    margin-right: 150px;
+}
+figcaption.home{
+ font-style: italic;
+    font-family: 'Roboto Condensed';
+    font-size: 10pt;
+    text-align: right;
+    margin-right: 210px;
+}
+footer{
+    font-style: italic;
+    font-family: 'Roboto Condensed';
+    font-size: 10pt;
+    text-align: right;
+    margin-left: 450px;
+}
+div.footer{
+    width: 750px;
+    margin: auto;
+}
