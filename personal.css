@@ -85,14 +85,17 @@ p.contact{
     font-family: 'Roboto Condensed';
 
 }
+img.resume{
+  width: 500px;
+}
 div.contact{
     width:250px;
     margin:auto;
 }
-img.ecuador{
-    width:370px;
-    height:150px;
-    margin-left: 30px;
+img.night{
+    width:350px;
+    height: 200px;
+    margin-left: 53px;
     margin-right: auto;
     margin-top: 20px;
 }
