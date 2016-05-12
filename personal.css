@@ -64,10 +64,10 @@ p.home{
     margin-left: 130px;
     margin-right: 100px;
 }
-img.me{
-    width: 255px;
+img.comp{
+    width: 400px;
     padding: 10px;
-    margin-left: 95px;
+    margin-left: 20px;
 }
 span.first{
     font-weight: bolder;
