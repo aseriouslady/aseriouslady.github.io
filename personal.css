@@ -65,7 +65,7 @@ div.personal{
 }
 div.portfolio{
     height: 1500px;
-    width: 1000px;
+    width: 900px;
     margin: 0 auto;
     background-color: #EDEDED;
     background-opacity: .5;
@@ -74,7 +74,8 @@ div.portfolio{
 div.portfoliocontent{
   height: 1500px;
   width: 800px;
-  margin-left: 50px;
+  margin-left:50px;
+
 }
 div.contact{
     width:250px;
