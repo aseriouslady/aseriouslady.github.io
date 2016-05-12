@@ -126,3 +126,8 @@ div.footer{
     width: 750px;
     margin: auto;
 }
+embed.resume{
+  float:right;
+  width:"600"
+  height:"300"
+}
