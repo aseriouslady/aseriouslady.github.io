@@ -132,7 +132,7 @@ div.footer{
     margin: auto;
 }
 embed.resume{
-  width:800px;
-  height: 500px;
+  width:'800';
+  height: '500';
   float:right;
 }
