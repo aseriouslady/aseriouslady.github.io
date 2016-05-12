@@ -22,14 +22,7 @@ div.personal{
     background-opacity: .5;
     border: solid 1px;
 }
-div.personal1{
-    height: 650px;
-    width: 950px;
-    margin: 0 auto;
-    background-color: #EDEDED;
-    background-opacity: .5;
-    border: solid 1px;
-}
+
 nav{
     float: left;
     margin-right: 20px;
