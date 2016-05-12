@@ -3,19 +3,13 @@
 body{
     background-color: #white;
 }
-img.me{
-    width: 350px;
-    padding: 10px;
-    margin-right: 190px;
-    margin-left: 20px;
-}
 
 h1{
     font-family: 'Roboto Condensed';
     text-align: center;
    margin-top: 10px;
 }
-h3{
+h2{
     font-family: 'Roboto Condensed';
     text-align: center;
     vertical-align: top;
@@ -54,23 +48,29 @@ li a:visited{
 li a:hover{
     color: black;
 }
+a.contactlink{
+  color: #505252;
+}
 div.home{
-    width: 500px;
+    width: 700px;
     margin-left:auto;
     margin-right: auto;
 
 }
 p.home{
-    font-family:Kimberly Geswein;
-    clear: both;
+    font-family:'Roboto Condensed';
+    float: right;
     text-align: justify;
-    margin-left: 20px;
-    margin-right: 20px;
-    font-family: 'Roboto Condensed';
-    magin-bottom: 20px;
+    margin-left: 130px;
+    margin-right: 100px;
+}
+img.me{
+    width: 255px;
+    padding: 10px;
+    margin-left: 95px;
 }
 span.first{
-    font-weight: bold;
+    font-weight: bolder;
     font-family: 'Roboto Condensed';
 }
 ul.contact{
