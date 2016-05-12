@@ -16,7 +16,7 @@ h2{
 }
 div.personal{
     height: 650px;
-    width: 550px;
+    width: 700px;
     margin: 0 auto;
     background-color: #EDEDED;
     background-opacity: .5;
@@ -58,12 +58,7 @@ li a:hover{
 a.contactlink{
   color: #505252;
 }
-div.home{
-    width: 500px;
-    margin-left:auto;
-    margin-right: auto;
 
-}
 p.home{
     font-family:'Roboto Condensed';
     float: right;
