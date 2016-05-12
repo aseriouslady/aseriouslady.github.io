@@ -132,6 +132,6 @@ div.footer{
     margin: auto;
 }
 embed.resume{
-  width:900px;
+  width:"900px";
   height: 900px;
 }
