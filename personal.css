@@ -85,9 +85,7 @@ p.contact{
     font-family: 'Roboto Condensed';
 
 }
-img.resume{
-  width: 500px;
-}
+
 div.contact{
     width:250px;
     margin:auto;
@@ -134,5 +132,6 @@ div.footer{
     margin: auto;
 }
 embed.resume{
-  width:500px;
+  width:600px;
+  float:right;
 }
