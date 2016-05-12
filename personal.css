@@ -65,11 +65,16 @@ div.personal{
 }
 div.portfolio{
     height: 1500px;
-    width: 800px;
+    width: 1000px;
     margin: 0 auto;
     background-color: #EDEDED;
     background-opacity: .5;
     border: solid 1px;
+}
+div.portfoliocontent{
+  height: 1500px;
+  width: 800px;
+  margin-left: 50px;
 }
 div.contact{
     width:250px;
