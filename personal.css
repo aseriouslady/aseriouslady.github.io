@@ -122,17 +122,6 @@ ul.contact{
         text-align: center;
         margin-top: 100px;
 }
-
-
-embed.video{
-  height:200px;
-  margin-left: 195px;
-  margin-top: 10px;
-}
-
-
-
-
 img.night{
     width:350px;
     height: 200px;
@@ -140,6 +129,20 @@ img.night{
     margin-right: auto;
     margin-top: 20px;
 }
+embed.video{
+  height:200px;
+  margin-left: 195px;
+  margin-top: 10px;
+}
+iframe.resume{
+  float:right;
+  width:"900px"
+  height:"600px"
+}
+
+
+
+
 figcaption.contact{
     font-style: italic;
     font-family: 'Roboto Condensed';
@@ -153,9 +156,4 @@ figcaption.home{
     font-size: 10pt;
     text-align: right;
     margin-right: 210px;
-}
-iframe.resume{
-  float:right;
-  width:"600px"
-  height:"600px"
 }
