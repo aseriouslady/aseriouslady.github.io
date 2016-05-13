@@ -127,22 +127,18 @@ embed.video{
   margin-left: 195px;
   margin-top: 10px;
 }
-
-
-
-
-
+ul.contact{
+        font-family: 'Roboto Condensed';
+        text-align: center;
+        margin-top: 100px;
+}
 img.comp{
     width: 400px;
     padding: 10px;
     margin-left: 20px;
 }
 
-ul.contact{
-        font-family: 'Roboto Condensed';
-        text-align: center;
-        margin-top: 100px;
-}
+
 
 
 
