@@ -134,10 +134,10 @@ embed.video{
   margin-left: 195px;
   margin-top: 10px;
 }
-iframe.resume{
+embed.resume{
   float:right;
-  width:""
-  height:""
+  width:"700"
+  height:"200"
 }
 
 
