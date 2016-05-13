@@ -77,6 +77,14 @@ div.portfoliocontent{
   margin-left:50px;
 
 }
+div.resume{
+    height: 1500px;
+    width: 900px;
+    margin: 0 auto;
+    background-color: #EDEDED;
+    background-opacity: .5;
+    border: solid 1px;
+}
 div.contact{
     width:250px;
     margin:auto;
