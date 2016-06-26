@@ -68,7 +68,7 @@ div.personal{
     border: solid 1px;
 }
 div.portfolio{
-    height: 1500px;
+    height: 2000px;
     width: 900px;
     margin: 0 auto;
     background-color: #EDEDED;
@@ -128,7 +128,7 @@ img.night{
 }
 embed.video{
   height:300px;
-  width: 350px;
+  width: 400px;
   margin-left: 195px;
   margin-top: 10px;
 }
