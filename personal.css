@@ -82,18 +82,11 @@ div.personal{
     height: 650px;
     width: 700px;
     margin: 0 auto;
-    background-color: #D1E6ED;
-    background-opacity: .5;
-    border: solid 1px;
-    border-radius: 10px;
 }
 div.portfolio{
     height: 5000px;
     width: 5000px;
     margin: 0 auto;
-background-color: #D1E6ED;
-    background-opacity: .5;
-    border: solid 1px;
 }
 div.portfoliocontent{
   height: 1500px;
@@ -105,8 +98,6 @@ div.resume{
     height: 1000px;
     width: 900px;
     margin: 0 auto;
-    background-opacity: .5;
-    border-radius: 10px;
 }
 div.contact{
     width:250px;
@@ -116,9 +107,6 @@ div.personalcontact{
     height: 450px;
     width: 750px;
     margin: 0 auto;
-    background-color: #EDEDED;
-    background-opacity: .5;
-    border: solid 1px;
 }
 p.home{
     font-family:'Roboto Condensed';
