@@ -19,7 +19,7 @@ h2{
 nav{
     float: left;
     margin-right: 60px;
-    margin-top: 50px; 
+    margin-top: 50px;
 }
 nav li{
     font-size:12pt;
@@ -66,7 +66,7 @@ div.nav{
   height: 650px;
   width: 150px;
   margin: 0 auto;
-  background-color: #C5CED1;
+  background-color: #C4CCCF;
   background-opacity: .5;
   float:left;
 }
@@ -74,7 +74,7 @@ div.personal{
     height: 650px;
     width: 700px;
     margin: 0 auto;
-    background-color: #EDEDED;
+    background-color: #D1E6ED;
     background-opacity: .5;
     border: solid 1px;
 }
