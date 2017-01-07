@@ -16,6 +16,10 @@ h2{
     text-align: right;
     margin-right: 100px;
 }
+h3{
+  text-align: left;
+  margin-left: 150px;
+}
 nav{
     float: left;
     margin-right: 60px;
@@ -42,7 +46,6 @@ li a:hover{
 }
 a.contactlink{
   color: #505252;
-  margin-left: 200px;
 }
 
 div.footer{
@@ -131,13 +134,10 @@ p.portfolio{
 
   font-family:'Roboto Condensed';
   text-align:justify;
-  margin-left: 200px;
+  margin-left: 150px;
 
 }
-h3{
-  text-align: left;
-  margin-left: 150px;
-}
+
 img.night{
     width:350px;
     height: 200px;
