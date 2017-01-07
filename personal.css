@@ -69,6 +69,7 @@ div.nav{
   background-color: #C4CCCF;
   background-opacity: .5;
   float:left;
+  border: solid 1px;
 }
 div.personal{
     height: 650px;
