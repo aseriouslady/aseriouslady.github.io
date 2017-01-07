@@ -13,8 +13,8 @@ h1{
 }
 h2{
     font-family: 'Roboto Condensed';
-    text-align: center;
-    vertical-align: top;
+    text-align: right;
+    margin-right: 100px;
 }
 nav{
     float: left;
@@ -43,10 +43,6 @@ li a:hover{
 a.contactlink{
   color: #505252;
 }
-a.contactlink2{
-  color: #505252;
-  font-weight: bold;
-}
 footer{
     font-style: italic;
     font-family: 'Roboto Condensed';
@@ -64,6 +60,16 @@ span.first{
 }
 div.nav{
   height: 650px;
+  width: 150px;
+  margin: 0 auto;
+  background-color: #C4CCCF;
+  background-opacity: .5;
+  float:left;
+  border: solid 1px;
+  border-radius: 10px;
+}
+div.navresume{
+  height: 1000px;
   width: 150px;
   margin: 0 auto;
   background-color: #C4CCCF;
