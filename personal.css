@@ -102,6 +102,7 @@ div.resume{
     background-color: #EDEDED;
     background-opacity: .5;
     border: solid 1px;
+    border-radius: 10px;
 }
 div.contact{
     width:250px;
@@ -156,7 +157,6 @@ img.comp{
     margin-right: 70px;
     margin-left: 195px
 }
-
 
 figcaption.contact{
     font-style: italic;
