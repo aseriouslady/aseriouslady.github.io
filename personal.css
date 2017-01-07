@@ -163,7 +163,10 @@ img.comp{
     margin-right: 70px;
     margin-left: 195px
 }
+object.resume{
+    text-align: center;
 
+}
 figcaption.contact{
     font-style: italic;
     font-family: 'Roboto Condensed';
