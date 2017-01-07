@@ -42,6 +42,7 @@ li a:hover{
 }
 a.contactlink{
   color: #505252;
+  margin-left: 200px;
 }
 
 div.footer{
@@ -135,7 +136,7 @@ p.portfolio{
 }
 h3{
   text-align: left;
-  margin-left: 200px;
+  margin-left: 150px;
 }
 img.night{
     width:350px;
