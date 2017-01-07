@@ -70,6 +70,7 @@ div.nav{
   background-opacity: .5;
   float:left;
   border: solid 1px;
+  border-radius: 10px;
 }
 div.personal{
     height: 650px;
@@ -78,6 +79,7 @@ div.personal{
     background-color: #D1E6ED;
     background-opacity: .5;
     border: solid 1px;
+    border-radius: 10px;
 }
 div.portfolio{
     height: 5000px;
@@ -154,10 +156,6 @@ img.comp{
     margin-right: 70px;
     margin-left: 195px
 }
-
-
-
-
 
 
 figcaption.contact{
