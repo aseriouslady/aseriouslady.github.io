@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed|Kimberly+Geswein');
 
 body{
-    background-color: #ddccff;
+    background-color: #b3b3cc;
 }
 
 h1{
@@ -60,7 +60,7 @@ div.nav{
   height: 650px;
   width: 150px;
   margin: 0 auto;
-  background-color: #e6e6e6;
+  background-color: #ddccff;
   background-opacity: .5;
   float:left;
   border: solid 1px;
@@ -70,7 +70,7 @@ div.navresume{
   height: 900px;
   width: 150px;
   margin: 0 auto;
-  background-color: #e6e6e6;
+  background-color: #ddccff;
   background-opacity: .5;
   float:left;
   border: solid 1px;
@@ -80,7 +80,7 @@ div.navportfolio{
   height: 1500px;
   width: 150px;
   margin: 0 auto;
-  background-color: #e6e6e6;
+  background-color: #ddccff;
   background-opacity: .5;
   float:left;
   border: solid 1px;
