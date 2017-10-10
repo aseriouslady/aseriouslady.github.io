@@ -23,7 +23,7 @@ h3{
 }
 nav{
     float: left;
-    margin-right: 40px;
+    margin-right: 60px;
     margin-top: 50px;
 }
 nav li{
@@ -59,7 +59,7 @@ span.first{
 }
 div.nav{
   height: 650px;
-  width: 100px;
+  width: 70px;
   margin: 0 auto;
   float:left;
   border: solid 1px;
