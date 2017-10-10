@@ -5,14 +5,14 @@ body{
 }
 
 h1{
-    font-family: 'Avant Garde';
+    font-family: 'Century Gothic';
     text-align: right;
     margin-top: 10px;
     margin-right: 100px;
 
 }
 h2{
-    font-family: 'Avant Garde'
+    font-family: 'Century Gothic'
     text-align: right;
     margin-right: 100px;
 }
@@ -29,7 +29,7 @@ nav li{
     font-size:12pt;
     padding: 15px;
     list-style: none;
-    font-family: 'Avant Garde';
+    font-family: 'Century Gothic';
     text-decoration: none;
 }
 li a{
