@@ -14,7 +14,7 @@ h1{
 h2{
     font-family: 'Century Gothic';
     text-align: right;
-    margin-right: 100px;
+    margin-right: 150px;
 }
 h3{
   font-family: 'Century Gothic';
@@ -23,7 +23,7 @@ h3{
 }
 nav{
     float: left;
-    margin-right: 60px;
+    margin-right: 40px;
     margin-top: 50px;
 }
 nav li{
