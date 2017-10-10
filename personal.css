@@ -54,7 +54,7 @@ div.footer{
 }
 span.first{
     font-weight: bolder;
-    font-family: 'Georgia';
+    font-family: 'Bodini';
 }
 div.nav{
   height: 650px;
@@ -119,7 +119,7 @@ div.personalcontact{
     margin: 0 auto;
 }
 p.home{
-    font-family:'Georgia';
+    font-family:'Bodini';
     text-align: justify;
     margin-left: 210px;
     margin-right: 90px;
@@ -128,11 +128,11 @@ p.contact{
     text-align: justify;
     margin-left: 150px;
     margin-top: 110px;
-    font-family: 'Georgia';
+    font-family: 'Bodini';
 }
 p.portfolio{
 
-  font-family:'Georgia';
+  font-family:'Bodini';
   text-align:justify;
   margin-left: 150px;
 
@@ -151,7 +151,7 @@ embed.video{
   margin-top: 10px;
 }
 ul.contact{
-        font-family: 'Georgia';
+        font-family: 'Bodini';
         text-align: center;
         margin-top: 100px;
 }
@@ -173,7 +173,7 @@ figcaption.contact{
 }
 figcaption.home{
  font-style: italic;
-    font-family: 'Georgia';
+    font-family: 'Bodini';
     font-size: 10pt;
     text-align: right;
     margin-right: 210px;
