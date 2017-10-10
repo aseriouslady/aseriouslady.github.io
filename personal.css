@@ -56,16 +56,7 @@ span.first{
     font-weight: bolder;
     font-family: 'Bodini';
 }
-div.nav{
-  height: 650px;
-  width: 150px;
-  margin: 0 auto;
-  background-color: #e0e0eb;
-  background-opacity: .5;
-  float:left;
-  border: solid 1px;
-  border-radius: 10px;
-}
+
 div.navresume{
   height: 900px;
   width: 150px;
