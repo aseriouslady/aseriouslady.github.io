@@ -55,7 +55,7 @@ div.footer{
 }
 span.first{
     font-weight: bolder;
-    font-family: 'Cambria';
+    font-family: 'Paladino';
 }
 div.nav{
   height: 650px;
@@ -115,7 +115,7 @@ div.personalcontact{
     margin: 0 auto;
 }
 p.home{
-    font-family:'Cambria';
+    font-family:'Paladino';
     text-align: justify;
     margin-left: 210px;
     margin-right: 90px;
@@ -124,11 +124,11 @@ p.contact{
     text-align: justify;
     margin-left: 150px;
     margin-top: 110px;
-    font-family: 'Cambria';
+    font-family: 'Paladino';
 }
 p.portfolio{
 
-  font-family:'Cambria';
+  font-family:'Paladino';
   text-align:justify;
   margin-left: 150px;
 
@@ -147,7 +147,7 @@ embed.video{
   margin-top: 10px;
 }
 ul.contact{
-        font-family: 'Cambria';
+        font-family: 'Paladino';
         text-align: center;
         margin-top: 100px;
 }
@@ -169,7 +169,7 @@ figcaption.contact{
 }
 figcaption.home{
  font-style: italic;
-    font-family: 'Cambria';
+    font-family: 'Paladino';
     font-size: 10pt;
     text-align: right;
     margin-right: 210px;
