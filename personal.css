@@ -5,14 +5,14 @@ body{
 }
 
 h1{
-    font-family: 'Alegreya Sans SC Font';
+    font-family: 'Avant Garde';
     text-align: right;
     margin-top: 10px;
     margin-right: 100px;
 
 }
 h2{
-    font-family: 'Alegreya Sans SC Font';
+    font-family: 'Avant Garde'
     text-align: right;
     margin-right: 100px;
 }
@@ -54,7 +54,7 @@ div.footer{
 }
 span.first{
     font-weight: bolder;
-    font-family: 'Lucida Sans Unicode';
+    font-family: 'Geneva';
 }
 div.nav{
   height: 650px;
