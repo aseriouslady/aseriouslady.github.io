@@ -1,23 +1,24 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed|Kimberly+Geswein');
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 body{
     background-color: #f0f0f5;
 }
 
 h1{
-    font-family: 'Century Gothic';
+    font-family: 'Fascinate Inline';
     text-align: right;
     margin-top: 10px;
     margin-right: 100px;
 
 }
 h2{
-    font-family: 'Century Gothic';
+    font-family: 'Fascinate Inline';
     text-align: right;
     margin-right: 100px;
 }
 h3{
-  font-family: 'Century Gothic';
+  font-family: 'Open Sans';
   text-align: left;
   margin-left: 150px;
 }
