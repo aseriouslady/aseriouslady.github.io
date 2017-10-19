@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline');
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 body{
@@ -6,14 +6,14 @@ body{
 }
 
 h1{
-    font-family: 'Fascinate Inline';
+    font-family: 'Bungee Inline';
     text-align: right;
     margin-top: 10px;
     margin-right: 100px;
 
 }
 h2{
-    font-family: 'Fascinate Inline';
+    font-family: 'Bungee Inline';
     text-align: right;
     margin-right: 100px;
 }
