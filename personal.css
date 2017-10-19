@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 body{
-    background-color: #ADD8E6;
+    background-color: #7B68EE;
 }
 
 h1{
@@ -59,12 +59,13 @@ span.first{
     font-family: 'Paladino';
 }
 div.nav{
-  height: 650px;
-  width: 150px;
+  height: 150px;
+  width: 650px;
   margin: 0 auto;
   float:left;
   border: solid 1px;
   border-radius: 10px;
+  background-color: #6D7499; 
 }
 
 div.navresume{
