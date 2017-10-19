@@ -1,19 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=Bungee+Inline');
+@import url('https://fonts.googleapis.com/css?family=Bungee+Shade');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 body{
-    background-color: #f0f0f5;
+    background-color: #ADD8E6;
 }
 
 h1{
-    font-family: 'Bungee Inline';
+    font-family: 'Bungee Shade';
     text-align: right;
     margin-top: 10px;
     margin-right: 100px;
 
 }
 h2{
-    font-family: 'Bungee Inline';
+    font-family: 'Open Sans';
     text-align: right;
     margin-right: 100px;
 }
