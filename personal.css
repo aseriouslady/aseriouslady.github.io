@@ -13,12 +13,12 @@ h1{
 
 }
 h2{
-    font-family: 'Open Sans Condensed';
+    font-family: 'Century Gothic';
     text-align: right;
     margin-right: 100px;
 }
 h3{
-  font-family: 'Open Sans Condensed';
+  font-family: 'Century Gothic';
   text-align: left;
   margin-left: 150px;
 }
@@ -32,7 +32,7 @@ nav li{
     font-size:12pt;
     padding: 15px;
     list-style: none;
-    font-family: 'Open Sans Condensed';
+    font-family: 'Century Gothic';
     text-decoration: none;
 }
 li a{
@@ -118,7 +118,7 @@ div.personalcontact{
     margin: 0 auto;
 }
 p.home{
-    font-family:' ';
+    font-family:'Century Gothic';
     text-align: justify;
     margin-left: 210px;
     margin-right: 90px;
@@ -127,11 +127,11 @@ p.contact{
     text-align: justify;
     margin-left: 150px;
     margin-top: 110px;
-    font-family: 'Paladino';
+    font-family: 'Century Gothic';
 }
 p.portfolio{
 
-  font-family:'Paladino';
+  font-family:'Century Gothic';
   text-align:justify;
   margin-left: 150px;
 
