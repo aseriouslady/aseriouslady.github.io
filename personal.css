@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Poiret+One');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 
 
 body{
@@ -13,12 +13,12 @@ h1{
     margin-right: 100px;
 }
 h2{
-    font-family: 'Century Gothic';
+    font-family: 'Raleway';
     text-align: right;
     margin-right: 100px;
 }
 h3{
-  font-family: 'Century Gothic';
+  font-family: 'Raleway';
   text-align: left;
   margin-left: 150px;
 }
@@ -31,7 +31,7 @@ nav li{
     font-size:12pt;
     padding: 15px;
     list-style: none;
-    font-family: 'Century Gothic';
+    font-family: 'Raleway';
     text-decoration: none;
 }
 li a{
@@ -91,7 +91,7 @@ div.personalcontact{
     margin: 0 auto;
 }
 p.home{
-    font-family:'Century Gothic';
+    font-family:'Raleway';
     text-align: justify;
     margin-left: 150px;
     margin-right: 90px;
@@ -100,11 +100,11 @@ p.contact{
     text-align: justify;
     margin-left: 150px;
     margin-top: 110px;
-    font-family: 'Century Gothic';
+    font-family: 'Raleway';
 }
 p.portfolio{
 
-  font-family:'Century Gothic';
+  font-family:'Raleway';
   text-align:justify;
   margin-left: 150px;
 
