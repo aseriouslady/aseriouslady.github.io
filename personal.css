@@ -64,9 +64,9 @@ div.nav{
   width: 150px;
   margin: 0 auto;
   float:left;
-  background-color:#D3D3D3;
   border: solid 1px;
   border-radius: 10px;
+  background-color:#D3D3D3;
 }
 
 div.navresume{
