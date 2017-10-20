@@ -11,7 +11,6 @@ h1{
     text-align: right;
     margin-top: 10px;
     margin-right: 100px;
-
 }
 h2{
     font-family: 'Century Gothic';
@@ -120,8 +119,8 @@ div.personalcontact{
 p.home{
     font-family:'Century Gothic';
     text-align: justify;
-    margin-left: 210px;
-    margin-right: 90px;
+    margin-left: 150px;
+
 }
 p.contact{
     text-align: justify;
