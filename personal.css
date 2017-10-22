@@ -91,12 +91,14 @@ h1.home{
     float: left;
     margin-top: 190px;
     margin-left: 125px;
+    margin: 0
 }
 h2.home{
   font-family:'Poiret One';
   font-size: 25pt;
   float: left;
   margin-left: 125px;
+  margin: 0
 }
 p.contact{
     text-align: justify;
