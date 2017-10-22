@@ -36,7 +36,7 @@ nav li{
 }
 li a{
     text-decoration: none;
-      display: block;
+    display: block;
 }
 li a:link{
     color: #505252;
@@ -93,7 +93,7 @@ div.personalcontact{
 }
 h1.home{
     font-family:'Poiret One';
-    margin-left: 100px;
+    margin-left: 70px;
     margin-top: 300px;
 }
 p.contact{
