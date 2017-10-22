@@ -33,10 +33,11 @@ nav li{
     list-style: none;
     font-family: 'Raleway';
     text-decoration: none;
+    display: inline;
+    float:right; 
 }
 li a{
-    text-decoration: none;
-    display: block;
+    display: inline;
 }
 li a:link{
     color: #505252;
