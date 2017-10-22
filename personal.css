@@ -91,10 +91,10 @@ div.personalcontact{
     width: 750px;
     margin: 0 auto;
 }
-p.home{
+h1.home{
     font-family:'Poiret One';
-    margin-left: 60px;
-    margin-top: 150px;
+    margin-left: 100px;
+    margin-top: 300px;
 }
 p.contact{
     text-align: justify;
