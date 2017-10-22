@@ -33,6 +33,7 @@ nav li{
     list-style: none;
     font-family: 'Raleway';
     text-decoration: none;
+    display: block;
 }
 li a{
     text-decoration: none;
