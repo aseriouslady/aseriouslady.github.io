@@ -56,7 +56,8 @@ span{
     font-family: 'Poiret One';
 }
 div.personal{
-
+  height: 500px;
+  width: 500px;
 }
 div.portfolio{
     height: 5000px;
