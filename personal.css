@@ -97,6 +97,7 @@ h2.home{
   font-size: 20pt;
   float: left;
   margin-left: 125px;
+  margin-top: 10px;
 }
 p.contact{
     text-align: justify;
