@@ -34,7 +34,7 @@ nav li{
     font-family: 'Raleway';
     text-decoration: none;
     display: inline;
-    float:right; 
+    float:right;
 }
 li a{
     display: inline;
@@ -61,9 +61,7 @@ span.first{
     font-family: 'Paladino';
 }
 div.personal{
-    height: 650px;
-    width: 700px;
-    margin: 0 auto;
+
 }
 div.portfolio{
     height: 5000px;
