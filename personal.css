@@ -92,7 +92,8 @@ div.personalcontact{
 }
 h1.home{
     font-family:'Poiret One';
-    margin-right: 10px;
+    font-size: 40pt;
+    margin-left: 50px;
     margin-top: 200px;
 }
 p.contact{
