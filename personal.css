@@ -95,6 +95,7 @@ h1.home{
     font-size: 40pt;
     float: left;
     margin-top: 200px;
+    margin-left: 25px;
 }
 p.contact{
     text-align: justify;
