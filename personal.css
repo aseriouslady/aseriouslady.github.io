@@ -77,21 +77,24 @@ div.portfoliocontent{
   height: 1000px;
   width: 700px;
   margin-left:120px;
-
+  margin-top: 75px;
 }
 div.resume{
     height: 1000px;
     width: 900px;
     margin: 0 auto;
+    margin-top: 75px;
 }
 div.contact{
     width:250px;
     margin:auto;
+      margin-top: 75px;
 }
 div.personalcontact{
     height: 450px;
     width: 750px;
     margin: 0 auto;
+      margin-top: 75px; 
 }
 h1.home{
     font-family:'Poiret One';
