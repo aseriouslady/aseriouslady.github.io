@@ -12,6 +12,13 @@ h1{
     margin-top: 10px;
     margin-right: 100px;
 }
+h2{
+  font-family:'Poiret One';
+  font-size: 20pt;
+  float: left;
+  margin-top: 40px;
+  margin-left: 175px;
+}
 h3{
   font-family: 'Raleway';
   text-align: left;
