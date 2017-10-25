@@ -168,12 +168,5 @@ figcaption.home{
     margin-right: 210px;
 }
 div.triangle{
- width: 0;
- height: 0;
- transform: rotate(180deg);
- border-left: 100px solid transparent;
- border-right: 100px solid transparent;
-border-top: 100px solid transparent;
- border-bottom: 100px solid #7575a3;
- margin:auto;
+  { width: 0; height: 0; border-top: 50px solid transparent; border-right: 100px solid red; border-bottom: 50px solid transparent; }
 }
