@@ -168,10 +168,8 @@ figcaption.home{
     margin-right: 210px;
 }
 div.triangle{
-      border-color: yellow blue red green;
-      border-style: solid;
-      border-width: 200px 200px 200px 200px;
-      height: 0px;
-      width: 0px;
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
   }
 }
