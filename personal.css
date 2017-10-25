@@ -168,10 +168,8 @@ figcaption.home{
     text-align: right;
     margin-right: 210px;
 }
-div.boo{
-  height: 50px;
-  width: 150px;
-  margin: 0 auto;
-  margin-top: 75px;
-  background-color: lightblue;
+  div.boo{
+    height: 500px;
+    width: 1000px;
+    background-color: lightblue;
 }
