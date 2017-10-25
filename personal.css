@@ -171,7 +171,6 @@ div.boo{
   height: 50px;
   width: 150px;
   margin: 0 auto;
-    margin-top: 75px;
-  background-color: red; 
-
+  margin-top: 75px;
+  background-color: lightblue; 
 }
