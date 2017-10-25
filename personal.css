@@ -168,7 +168,9 @@ figcaption.home{
     margin-right: 210px;
 }
   div.tri{
-    height: 500px;
-    width: 1000px;
-    background-color: red;
+    width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 0 200px 200px;
+  border-color: transparent transparent #007bff 
 }
