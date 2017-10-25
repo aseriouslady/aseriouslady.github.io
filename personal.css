@@ -16,7 +16,7 @@ h2{
   font-family:'Poiret One';
   font-size: 20pt;
   float: left;
-  margin-top: 75px;
+  margin-top: 125px;
   margin-left: 175px;
 }
 h3{
@@ -144,15 +144,15 @@ ul.contact{
         text-align: center;
         margin-top: 100px;
 }
-img.comp{
-    width: 250px;
-    padding: 10px;
-    margin-right: 70px;
-    margin-left: 195px
-}
+
 object.resume{
     margin-left: 100px;
 }
+
+
+
+MISC
+
 figcaption.contact{
     font-style: italic;
     font-family: 'Lucida Sans Unicode';
@@ -166,4 +166,10 @@ figcaption.home{
     font-size: 10pt;
     text-align: right;
     margin-right: 210px;
+}
+img.comp{
+    width: 250px;
+    padding: 10px;
+    margin-right: 70px;
+    margin-left: 195px
 }
