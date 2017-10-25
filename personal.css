@@ -167,9 +167,11 @@ figcaption.home{
     text-align: right;
     margin-right: 210px;
 }
-div.triangle{
-  width: 100px;
-  height: 100px;
-  background-color: yellow;
-  }
+div.boo{
+  height: 50px;
+  width: 150px;
+  margin: 0 auto;
+    margin-top: 75px;
+  background-color: red; 
+
 }
