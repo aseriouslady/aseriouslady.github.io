@@ -65,6 +65,7 @@ span{
 div.personal{
   height: 500px;
   width: 1000px;
+  background-color: lightblue;
 }
 div.portfolio{
     height: 5000px;
@@ -172,5 +173,5 @@ div.boo{
   width: 150px;
   margin: 0 auto;
   margin-top: 75px;
-  background-color: lightblue; 
+  background-color: lightblue;
 }
