@@ -96,7 +96,7 @@ div.personalcontact{
     height: 450px;
     width: 750px;
     margin: 0 auto;
-      margin-top: 75px;
+    margin-top: 75px;
 }
 h1.home{
     font-family:'Poiret One';
@@ -125,13 +125,12 @@ p.contact{
   margin-left: 150px;
   margin-top: 110px;
   font-family: 'Raleway';
+  display: block;
 }
 p.portfolio{
-
   font-family:'Raleway';
   text-align:justify;
   margin-left: 150px;
-
 }
 
 img.night{
