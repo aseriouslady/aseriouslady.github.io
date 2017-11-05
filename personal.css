@@ -150,12 +150,6 @@ p.portfolio{
   margin-top: 65px;
 }
 
-img.night{
-    width:350px;
-    height: 200px;
-    margin-left: 150px;
-    margin-top: 20px;
-}
 embed.video{
   height:300px;
   width: 400px;
@@ -191,8 +185,7 @@ figcaption.home{
     margin-right: 210px;
 }
 img.about{
-    width: 100px;
-    padding: 100px;
-    margin-right: 70px;
-    margin-left: 195px
+    width: 400px;
+    padding: 400px;
+margin: auto;
 }
