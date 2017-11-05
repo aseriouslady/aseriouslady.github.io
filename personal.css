@@ -12,13 +12,15 @@ h1{
     margin-top: 10px;
     margin-right: 100px;
 }
-h2{
+h2.resume{
   font-family:'Poiret One';
   font-size: 20pt;
   float: left;
-  margin-top: 95px;
-  margin-left: 125px;
+  margin-left: 128px;
+  margin-top: 130px;
+
 }
+
 h3.contact{
   font-family:'Poiret One';
   font-size: 16pt;
@@ -73,11 +75,7 @@ span{
     font-weight: bolder;
     font-family: 'Raleway';
 }
-span.talk{
-    font-weight: bolder;
-    font-family: 'Raleway';
-    text-align: center;
-}
+
 div.personal{
   height: 500px;
   width: 1000px;
@@ -102,18 +100,7 @@ div.resume{
     margin: 0 auto;
     margin-top: 75px;
 }
-div.contact{
-  height: 900px;
-    width:600px;
-    margin:auto;
-    margin-top: 75px;
-}
-div.personalcontact{
-    height: 450px;
-    width: 750px;
-    margin: 0 auto;
-    margin-top: 75px;
-}
+
 h1.home{
     font-family:'Poiret One';
     font-size: 45pt;
@@ -129,19 +116,38 @@ h2.home{
   margin-top: 5px;
   margin-left: 175px;
 }
+
+div.contactcontent{
+  height: 900px;
+    width:600px;
+    margin:auto;
+    margin-top: 75px;
+}
 h2.contact{
   font-family:'Poiret One';
   font-size: 20pt;
   float: left;
-  margin-top: 100px;
-  margin-left: 115px;
+  margin-left: 130px;
+  margin-top: 110px;
 }
+img.about{
+    margin-left: 130px;
+    width: 80%;
+}
+
+
 p.contact{
   text-align: justify;
   margin-left: 130px;
-  margin-top: 150px;
   font-family: 'Raleway';
   display: block;
+}
+p.talk{
+  text-align: center;
+  margin-left: 130px;
+  font-family: 'Raleway';
+  display: block;
+
 }
 p.portfolio{
   font-family:'Raleway';
@@ -157,19 +163,36 @@ embed.video{
   margin-top: 10px;
 }
 ul.contact{
-        font-family: 'Open Sans Condensed';
-        text-align: center;
-        margin-top: 100px;
+  font-family: 'Open Sans Condensed';
+  text-align: center;
+  margin-top: 100px;
 }
+
 
 object.resume{
     margin-left: 100px;
 }
-div.shape{
-background-color: #00BFFF;
-height: 200px;
-width: 200px;
+div.shape1{
+width: 0;
+height: 0;
+border-bottom: 450px solid   #D0C6D0;
+border-left: 450px solid transparent;
+position: absolute;
+bottom: 0px;
+right: 0px;
+position: fixed;
 }
+div.shapec{
+width: 0;
+height: 0;
+border-top: 340px solid  #D0C6D0;
+border-right: 340px solid transparent;
+position: absolute;
+top: 0px;
+left: 0px;
+position: fixed;
+}
+
 
 MISC
 
@@ -186,9 +209,4 @@ figcaption.home{
     font-size: 10pt;
     text-align: right;
     margin-right: 210px;
-}
-img.about{
-    width: 250px;
-    padding: 250px;
-    margin: auto;
 }
