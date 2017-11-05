@@ -165,8 +165,11 @@ ul.contact{
 object.resume{
     margin-left: 100px;
 }
-
-
+div.shape{
+background-color: #00BFFF;
+height: 200px;
+width: 200px;
+}
 
 MISC
 
