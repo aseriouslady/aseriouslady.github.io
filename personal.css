@@ -19,10 +19,21 @@ h2{
   margin-top: 95px;
   margin-left: 125px;
 }
+h3.contact{
+  font-family:'Poiret One';
+  font-size: 16pt;
+  float: left;
+  margin-top: 5px;
+  margin-left: 125px;
+}
+
+}
 h3{
-  font-family: 'Raleway';
-  text-align: left;
-  margin-left: 150px;
+  font-family:'Raleway';
+  font-size: 14pt;
+  float: left;
+  margin-top:15px;
+  margin-left: 125px;
 }
 nav{
     float: right;
@@ -117,13 +128,13 @@ h2.contact{
   font-family:'Poiret One';
   font-size: 20pt;
   float: left;
-  margin-top: 5px;
-  margin-left: 175px;
+  margin-top: 100px;
+  margin-left: 115px;
 }
 p.contact{
   text-align: justify;
-  margin-left: 150px;
-  margin-top: 110px;
+  margin-left: 130px;
+  margin-top: 150px;
   font-family: 'Raleway';
   display: block;
 }
@@ -131,6 +142,7 @@ p.portfolio{
   font-family:'Raleway';
   text-align:justify;
   margin-left: 150px;
+  margin-top: 65px;
 }
 
 img.night{
