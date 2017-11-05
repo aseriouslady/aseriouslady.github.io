@@ -73,6 +73,11 @@ span{
     font-weight: bolder;
     font-family: 'Raleway';
 }
+span.talk{
+    font-weight: bolder;
+    font-family: 'Raleway';
+    text-align: center;
+}
 div.personal{
   height: 500px;
   width: 1000px;
