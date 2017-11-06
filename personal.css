@@ -14,7 +14,7 @@ h1{
 }
 h2.resume{
   font-family:'Poiret One';
-  font-size: 20pt;
+  font-size: 33pt;
   float: left;
   margin-left: 128px;
   margin-top: 130px;
@@ -29,13 +29,11 @@ h3.contact{
   margin-left: 125px;
 }
 
-}
-h3{
+h3.port2{
   font-family:'Raleway';
-  font-size: 14pt;
-  float: left;
-  margin-top:15px;
-  margin-left: 125px;
+  font-size: 16pt;
+  margin-top:100px;
+  margin-left: 300px;
 }
 nav{
     float: right;
@@ -80,20 +78,8 @@ div.personal{
   height: 500px;
   width: 1000px;
 }
-div.portfolio{
-    height: 5000px;
-    width: 5000px;
-    margin: 0 auto;
-    height: 1000px;
-    width: 900px;
-      margin-top: 75px;
-}
-div.portfoliocontent{
-  height: 1000px;
-  width: 700px;
-  margin-left:120px;
-  margin-top: 75px;
-}
+
+
 div.resume{
     height: 1000px;
     width: 900px;
@@ -130,6 +116,14 @@ h2.contact{
   margin-left: 130px;
   margin-top: 110px;
 }
+h2.port{
+  font-family:'Poiret One';
+  font-size: 33pt;
+  float: left;
+  margin-left: 130px;
+  margin-top: 110px;
+  margin-bottom: 100px;
+}
 img.about{
     margin-left: 130px;
     width: 80%;
@@ -154,13 +148,16 @@ p.portfolio{
   text-align:justify;
   margin-left: 150px;
   margin-top: 65px;
+  font-size: 50pt;
 }
 
-embed.video{
-  height:300px;
-  width: 400px;
-  margin-left: 195px;
-  margin-top: 10px;
+video.video{
+  height:1000px;
+  width: 1000px;
+  margin-left: 130px;
+  margin-top: 100px;
+  float: left;
+  margin-right: 15px;
 }
 ul.contact{
   font-family: 'Open Sans Condensed';
@@ -185,7 +182,7 @@ position: fixed;
 div.shapec{
 width: 0;
 height: 0;
-border-top: 340px solid  #D0C6D0;
+border-top: 340px solid #D0C6D0;
 border-right: 340px solid transparent;
 position: absolute;
 top: 0px;
@@ -193,6 +190,24 @@ left: 0px;
 position: fixed;
 }
 
+div.JR{
+  width:800px;
+  height:600px;
+}
+div.DD{
+  width:500px;
+  height:00px;
+}
+div.film{
+  width: 1000px;
+  height: 1000px;
+  margin-top: 500px;
+}
+div.portfoliocontent{
+  margin-top: 400px;
+  width:700px;
+  height:800px;
+}
 
 MISC
 
@@ -209,4 +224,10 @@ figcaption.home{
     font-size: 10pt;
     text-align: right;
     margin-right: 210px;
+}
+div.portfolio{
+  height: 1000px;
+  width: 900px;
+  margin: 0 auto;
+  margin-top: 75px;
 }
