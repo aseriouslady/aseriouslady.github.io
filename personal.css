@@ -172,7 +172,7 @@ object.resume{
 div.shape1{
 width: 0;
 height: 0;
-border-bottom: 450px solid   #D0C6D0;
+border-bottom: 450px solid #E0C4E3;
 border-left: 450px solid transparent;
 position: absolute;
 bottom: 0px;
@@ -182,7 +182,7 @@ position: fixed;
 div.shapec{
 width: 0;
 height: 0;
-border-top: 340px solid #D0C6D0;
+border-top: 340px solid #E0C4E3;
 border-right: 340px solid transparent;
 position: absolute;
 top: 0px;
