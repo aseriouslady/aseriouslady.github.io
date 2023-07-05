@@ -109,6 +109,7 @@ div.contactcontent{
     margin:auto;
     margin-top: 75px;
 }
+
 h2.contact{
   font-family:'Poiret One';
   font-size: 20pt;
@@ -142,6 +143,12 @@ p.talk{
   font-family: 'Raleway';
   display: block;
 
+}
+div.portfoliocontent{
+  height: 200px;
+    width:600px;
+    margin:auto;
+    margin-top: 10px;
 }
 p.portfolio{
   font-family:'Raleway';
