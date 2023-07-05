@@ -116,6 +116,7 @@ h2.contact{
   float: left;
   margin-left: 130px;
   margin-top: 110px;
+    display: block; 
 }
 h2.port{
   font-family:'Poiret One';
